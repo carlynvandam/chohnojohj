@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aavahheigi.hundertzehn.ch/sitemap.xml
